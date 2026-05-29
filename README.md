@@ -1,0 +1,1 @@
+# global-solution-2026-ai
