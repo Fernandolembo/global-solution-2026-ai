@@ -34,7 +34,7 @@ Exemplo de quando a IA detecta falha na energia ou superaquecimento.
 
 ##  Como Executar
 1. Acesse o nosso notebook através do link: 
-   [**Abrir no Google Colab**]([(https://colab.research.google.com/drive/1E5wZRy3mIceS8u4Hcu7pJ7rrMMvGgcU8?usp=sharing])
+   [**Abrir no Google Colab**]([https://colab.research.google.com/drive/1E5wZRy3mIceS8u4Hcu7pJ7rrMMvGgcU8?usp=sharing])
 2. Certifique-se de executar as células de instalação (zstd e Ollama) no início.
 3. Execute o bloco de simulação para ver a IA analisando os dados da missão.
 
