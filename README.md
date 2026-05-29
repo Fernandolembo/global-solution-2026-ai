@@ -24,17 +24,17 @@ Este projeto é um sistema de monitoramento inteligente para missões espaciais.
 
 ### Cenário 1: Operação Normal
 Aqui o sistema monitora a missão em estado estável.
-![Dados da missão](assets/dados_missao.png)
+![Dados da missão](assets/normal.png)
 
 ### Cenário 2: Alerta Crítico
 Exemplo de quando a IA detecta falha na energia ou superaquecimento.
-![Alerta crítico](assets/alerta_critico.png)
+![Alerta crítico](assets/superaquecimento.png)
 
 ---
 
 ##  Como Executar
 1. Acesse o nosso notebook através do link: 
-   [**Abrir no Google Colab**](LINK_DO_SEU_COLAB_AQUI)
+   [**Abrir no Google Colab**]([LINK_DO_SEU_COLAB_AQUI](https://colab.research.google.com/drive/1E5wZRy3mIceS8u4Hcu7pJ7rrMMvGgcU8?usp=sharing))
 2. Certifique-se de executar as células de instalação (zstd e Ollama) no início.
 3. Execute o bloco de simulação para ver a IA analisando os dados da missão.
 
