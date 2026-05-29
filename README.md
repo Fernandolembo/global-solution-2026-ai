@@ -40,4 +40,4 @@ Exemplo de quando a IA detecta falha na energia ou superaquecimento.
 
 ## 📺 Vídeo de Demonstração
 Assista à apresentação completa do projeto e funcionamento da IA:  
-[**Clique aqui para assistir ao vídeo**](LINK_DO_SEU_VIDEO_AQUI)
+[**Clique aqui para assistir ao vídeo**](https://youtu.be/2To2dzZhpCY))
